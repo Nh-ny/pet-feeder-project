@@ -6,6 +6,7 @@ It includes logic planning, flowcharts, word coding, and test scenarios.
 
 ## Folder Structure
 - `Step1_Analysis`: Problem definition and requirement analysis
+- `Step2_Organise_And_Describe_The_Data`: Input/output listing and system constraints
 - `Step3_Flowchart`: System flowchart in PNG format
 - `Step4_Word_Code`: Word-based pseudocode implementation
 - `Step5_Test_and_Refine`: Test outputs and improvements
